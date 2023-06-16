@@ -1,2 +1,2 @@
 # Global_superstore_PowerBi
-Did data cleaning using excel and then used the data to visualize and create a dashboard for getting meaning full insights of the sales report.
+Did data cleaning using excel and used the data to visualize and created a dashboard for getting meaningful insights of the sales report.
