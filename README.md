@@ -1,2 +1,2 @@
 # Global_superstore_PowerBi
-Using Excel and Power Bi created a superstore report which is use for data analysis .
+Using Excel and Power Bi created a superstore report which is useful for data analysis .
